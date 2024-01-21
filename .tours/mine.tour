@@ -4,18 +4,5 @@
   "title": "mine",
   "description": "A New Tour",
   "createdAt": "2024-01-21 16:14:03",
-  "steps": [
-    {
-      "title": "1",
-      "description": "// TODO [1] React.FC\u003cPropsWithChildren\u003cCardProps\u003e\u003e - интерфейс для пропсов",
-      "file": "Card.tsx",
-      "line": 15
-    },
-    {
-      "title": "2",
-      "description": "Simple Navigation to UserList.tsx:5",
-      "file": "UserList.tsx",
-      "line": 5
-    }
-  ]
+  "steps": []
 }
