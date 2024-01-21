@@ -5,6 +5,7 @@ import axios from "axios";
 import List from "./components/List";
 import UserItem from "./components/UserItem";
 import TodoItem from "./components/TodoItem";
+import EventExample from "./components/EventExample";
 
 const App = () => {
   // TODO [4] useState<IUser[]>([]); - типизация useState - что в стейте
@@ -53,6 +54,8 @@ const App = () => {
       </Card>
 
       {/*// TODO [8] используем List*/}
+
+      <EventExample />
 
       <List
         items={users}
